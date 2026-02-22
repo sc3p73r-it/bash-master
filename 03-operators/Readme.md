@@ -3,8 +3,6 @@
 ## Overview (EN)
 Operators help you compute values, compare numbers and strings, test files, and redirect output.
 
-## အကျဉ်းချုပ် (MM)
-Operators တွေကို သုံးပြီး အရေအတွက်တွက်တာ, comparison လုပ်တာ, file test လုပ်တာနဲ့ output ကို redirect လုပ်တာတွေကို လုပ်နိုင်ပါတယ်။
 
 ## Step by Step (EN)
 1. Run `03-operators/01-arithmetic-operator.sh` for arithmetic.
@@ -12,9 +10,6 @@ Operators တွေကို သုံးပြီး အရေအတွက်�
 3. Try `03-operators/06-redirection-operators.sh` and inspect created files.
 
 ## Step by Step (MM)
-1. `03-operators/01-arithmetic-operator.sh` နဲ့ arithmetic ကို စမ်းပါ။
-2. `03-operators/02-comparison-operator.sh` နဲ့ numeric comparison ကို စမ်းပါ။
-3. `03-operators/06-redirection-operators.sh` ကို chạy ပြီး ဖိုင်တွေကနေ output ကိုကြည့်ပါ။
 
 ## Operators Quick List
 - Arithmetic: `+ - * / %`
